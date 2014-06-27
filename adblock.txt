@@ -1,9 +1,8 @@
 [Adblock Plus] 
 !
-!  ThomasJohnsen adblocklist
+!  Thomas Johnsen adblocklist
 !  Supplement for EasyList
-!  http://...
-!  License: http://creativecommons.org/licenses/by-nc-nd/3.0
+!  https://github.com/hotmas/adblockfilter/edit/master/adblock.txt
 !  Maintained by: Thomas Johnsen
 !  Report problems to: hotmas@gmail.com
 !  Last Modified: 27 June 2014

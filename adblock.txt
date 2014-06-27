@@ -1,0 +1,13 @@
+[Adblock Plus] 
+!
+!  ThomasJohnsen adblocklist
+!  Supplement for EasyList
+!  http://...
+!  License: http://creativecommons.org/licenses/by-nc-nd/3.0
+!  Maintained by: Thomas Johnsen
+!  Report problems to: hotmas@gmail.com
+!  Last Modified: 27 June 2014
+!  Version 1.0
+!
+!
+||www.gaysir.no##DIV[id="reklametopp"]

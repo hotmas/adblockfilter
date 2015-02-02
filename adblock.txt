@@ -9,4 +9,8 @@
 !  Version 1.0
 !
 !
-||www.gaysir.no##DIV[id="reklametopp"]
+||gaysir.no##DIV[id="reklametopp"]
+||nakenprat.com##TD[bgcolor="#1C3365"]
+||nakenprat.com##TD[width="180"]
+||gaysir.no##DIV[id="toppreklame"]
+
